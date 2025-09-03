@@ -43,7 +43,7 @@ if page == "Intro page":
     st.markdown("- Recommendations")
     st.markdown("The dropdown menu on the left 'Aspect Selector' will take you to the different aspects of the analysis our team looked at.")
     
-    myImage = Image.open("bike.jpeg") #source: unsplash.com
+    myImage = Image.open("bike1.jpg") #source: unsplash.com
     st.image(myImage)
 
 
@@ -160,7 +160,7 @@ elif page == 'Interactive map with aggregated bike trips':
 else:
     
     st.header("Conclusions and recommendations")
-    bikes = Image.open("Bike love.jpeg")  #source: Unsplash
+    bikes = Image.open("BikeLove.jpg")  #source: Unsplash
     st.image(bikes)
     st.markdown("### Our analysis has shown that Citi Bikes should focus on the following objectives moving forward:")
     st.markdown("- Add more stations to the locations around the West street avenue and Broadway street. These are the most popular start stations and routes taken. ")

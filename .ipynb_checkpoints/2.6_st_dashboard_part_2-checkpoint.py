@@ -81,12 +81,12 @@ elif page == 'Weather component and bike usage':
         height=600,
         yaxis=dict(
             title='Sum of trips',
-            titlefont=dict(color='blue'),
+         #   titlefont=dict(color='blue'),
             tickfont=dict(color='blue')
         ),
         yaxis2=dict(
             title='Avg Temperature (°C)',
-            titlefont=dict(color='red'),
+          #  titlefont=dict(color='red'),
             tickfont=dict(color='red'),
             anchor='x',
             overlaying='y',

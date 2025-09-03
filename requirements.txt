@@ -3,5 +3,5 @@ pandas==1.5.3
 plotly==5.24.1
 matplotlib==3.7.1
 numerize==0.12
-pillow==9.4.0
 pyarrow==11.0.0
+pillow==9.4.0

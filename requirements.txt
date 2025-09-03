@@ -4,3 +4,4 @@ streamlit
 matplotlib
 numerize
 pillow
+streamlit_keplergl
